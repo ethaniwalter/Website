@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ethaniwalter/Website/issues"
   },
-  "homepage": "https://github.com/ethaniwalter/Website#readme"
+  "homepage": "https://github.com/ethaniwalter/Website#readme",
+  "dependencies": {
+    "firebase": "^10.3.1"
+  }
 }
